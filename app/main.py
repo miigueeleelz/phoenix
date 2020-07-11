@@ -7,6 +7,3 @@ app = Flask(__name__)
 api = Api(app)
 
 api.add_resource(GenericResource, '/')
-
-if __name__ == '__main__':
-    app.debug(True)
