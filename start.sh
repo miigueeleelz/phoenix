@@ -1,2 +1,2 @@
 export FLASK_APP=app/main.py
-flask run
+export FLASK_ENV=development
