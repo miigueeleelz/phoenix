@@ -1,6 +1,6 @@
 # Phoenix
 
-Phoenix is a Restful service used to manage the information about teacher, subjects and students of public and private institutions.
+Phoenix is a Restful service used to manage the information about teachers, subjects and students for public and private institutions.
 
 ### Tech
 
