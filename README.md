@@ -7,6 +7,7 @@ Phoenix is a Restful service used to manage the information about teachers, subj
 Phoenix uses a number of open source projects to work properly:
 
 * [Flask] - A lightweight WSGI web application framework
+* [peewee] - A simple and small ORM
 
 ### Installation
 
@@ -26,3 +27,4 @@ MIT
 
 [phoenix]: <https://github.com/miigueeleelz/phoenix>
 [Flask]: <https://flask.palletsprojects.com/en/1.1.x/#>
+[peewee]: <http://docs.peewee-orm.com/en/latest/index.html>
